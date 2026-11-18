@@ -23,3 +23,5 @@ Disallow: /
 # Allow regular search engines
 User-agent: *
 Allow: /
+
+Sitemap: https://filjapconsulting.com/sitemap.xml
